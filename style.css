@@ -4,8 +4,7 @@ body{
     
 }
 .welcome{
-    position: fixed;
-;
+    position: sticky;
     color: rgb(15, 71, 77);
     display: flex;
     justify-content: center;
